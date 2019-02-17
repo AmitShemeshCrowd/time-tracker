@@ -4,8 +4,8 @@ pipeline {
     agent any
     environment {
 
-        DOCKER_HUB_USERNAME = "BAR"
-        DOCKER_HUB_PASSWORD = ""
+        DOCKER_HUB_USERNAME = "amitshemeshcrowd"
+        DOCKER_HUB_PASSWORD = "amit-sh2"
         DOCKERHUB_REPO_NAME = "amitshemeshcrowd/final-x"
 
     }
