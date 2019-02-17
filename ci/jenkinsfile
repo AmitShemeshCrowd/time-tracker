@@ -6,7 +6,7 @@ pipeline {
 
         DOCKER_HUB_USERNAME = "BAR"
         DOCKER_HUB_PASSWORD = ""
-        DOCKERHUB_REPO_NAME = "danmaxic/final-x-1"
+        DOCKERHUB_REPO_NAME = "amitshemeshcrowd/final-x"
 
     }
     stages {
